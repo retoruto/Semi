@@ -1,0 +1,2 @@
+# Semi
+Seminar management system
